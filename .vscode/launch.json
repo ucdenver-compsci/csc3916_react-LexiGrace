@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "https://csc3916-react-lexigrace.onrender.com",
+            "url": "https://assignment-4-react.onrender.com/",
             "webRoot": "${workspaceFolder}"
         }
     ]
